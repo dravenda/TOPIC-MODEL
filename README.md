@@ -1,5 +1,5 @@
 # TOPIC-MODEL
-Tutorial on Topic Modelling using R
+Tutorial on Topic Modelling using R.
 This course demonstrates how to apply the textual analysis technique called Topic Modelling to infer latent topics from a corpus of textual documents. Topic Modelling includes a series of unsupervised machine learning algorithms aiming to uncover latent topics in a corpus of documents by identifying clusters of words that are likely to co-occur in the corpus. R statistical package will be used to apply the methodology on a corpus of papers published in an academic journal over the last 10 years. The analysis will allow to identify the topics mostly covered, their prevalence (proportion) in each document, the words mostly related to each topic, and the effects of some determinants on topic prevalence using a regression framework.
 During the workshop we will:
 1.	Import textual data into R (abstracts, titles and key words of papers published over the last 10 years in a freely chosen academic journal)
