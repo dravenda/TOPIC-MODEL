@@ -14,5 +14,7 @@ Prerequisites: no previous knowledge of statistical programming is needed, altho
 2.	R Studio Desktop (Free) installation: https://rstudio.com/products/rstudio/download/.
 
 ### Diego Ravenda
+
 Associate Professor of Accounting
+
 TBS Business School, Campus Barcelona (Spain)
