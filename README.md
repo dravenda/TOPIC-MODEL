@@ -15,3 +15,4 @@ Prerequisites: no previous knowledge of statistical programming is needed, altho
 
 ### Diego Ravenda
 #### Associate Professor of Accounting - TBS Business School
+d.ravenda@tbs-education.es
